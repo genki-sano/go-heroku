@@ -16,5 +16,5 @@
 # misc
 .DS_Store
 
-# Go build directory
+# Working directory
 /build
