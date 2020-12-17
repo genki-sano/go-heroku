@@ -1,5 +1,7 @@
 # go-heroku
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/genki-sano/go-heroku)](https://goreportcard.com/report/github.com/genki-sano/go-heroku)
+
 ## Description
 
 GoでHerokuにデプロイするためのテンプレートです。
