@@ -45,7 +45,6 @@ https://qiita.com/advent-calendar/2020/go5
 % git push heroku master 
 ```
 
-
 ## Licence
 
 [MIT](https://github.com/genki-sano/go-heroku/blob/main/LICENSE)
