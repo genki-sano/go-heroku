@@ -1,4 +1,4 @@
-# go heroku
+# go-heroku
 
 ## Description
 
