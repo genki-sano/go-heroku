@@ -6,8 +6,8 @@
 
 GoでHerokuにデプロイするためのテンプレートです。
 
-詳細は下記で `2020/12/23` に公開予定です。  
-https://qiita.com/advent-calendar/2020/go5
+詳細は下記にて確認いただければと思います。  
+https://qiita.com/sunnyG/items/95f61a39ca3303a6c85f
 
 ## Install
 
